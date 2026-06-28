@@ -31,4 +31,5 @@ A simple Python command-line todo application with persistent file storage.
 
 ## Author
 
-teadnicode
+teanicode
+
